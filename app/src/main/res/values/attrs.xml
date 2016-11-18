@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BottomTabView">
+        <attr name="tab_src" format="reference"></attr>
+        <attr name="tab_text" format="string"></attr>
+        <attr name="tab_textColor" format="reference"></attr>
+        <attr name="tab_textSize" format="dimension"></attr>
+        <attr name="tab_count" format="integer"></attr>
+    </declare-styleable>
+</resources>
